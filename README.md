@@ -4,3 +4,5 @@
 * Implemented security workflow via in-memory and JDBC authentication provided by Spring Security. 
 * Utilized Hibernate to provide better support of MySQL database operations
 * Developed a Spring Web Flow to support item ordering.
+
+**Run the java code, and open [http://localhost:8080/onlineShop/](http://localhost:8080/onlineShop/) to view it in the browser.**
